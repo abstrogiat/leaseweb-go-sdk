@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/LeaseWeb/leaseweb-go-sdk/options"
+	"github.com/abstrogiat/leaseweb-go-sdk/options"
 )
 
 const HOSTING_API_VERSION = "v2"

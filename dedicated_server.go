@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/LeaseWeb/leaseweb-go-sdk/options"
+	"github.com/abstrogiat/leaseweb-go-sdk/options"
 )
 
 const DEDICATED_SERVER_API_VERSION = "v2"

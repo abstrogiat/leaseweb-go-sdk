@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/LeaseWeb/leaseweb-go-sdk/options"
+	"github.com/abstrogiat/leaseweb-go-sdk/options"
 )
 
 const REMOTE_MANAGEMENT_API_VERSION = "v2"
